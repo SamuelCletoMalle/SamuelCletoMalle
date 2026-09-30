@@ -15,6 +15,7 @@ Empecé programando en Java, aprendí Python por mi cuenta y vengo del mundo de 
 
 ## 🚀 Proyectos
 
+- **[DAM](https://github.com/SamuelCletoMalle/DAM)** – Ejercicios y prácticas del ciclo DAM por asignatura: Programación en Java (POO, herencia, ficheros, streams), PL/SQL (cursores, triggers, funciones) y Lenguaje de Marcas (DTD, XSD)
 - **[CursoPython](https://github.com/SamuelCletoMalle/CursoPython)** – Ejercicios y proyectos finales de mi aprendizaje de Python (operadores, estructuras de datos...)
 
 ## 🎓 Formación
