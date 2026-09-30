@@ -13,6 +13,10 @@ Empecé programando en Java, aprendí Python por mi cuenta y vengo del mundo de 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
+## 🚀 Proyectos
+
+- **[CursoPython](https://github.com/SamuelCletoMalle/CursoPython)** – Ejercicios y proyectos finales de mi aprendizaje de Python (operadores, estructuras de datos...)
+
 ## 🎓 Formación
 
 - DAM – Desarrollo de Aplicaciones Multiplataforma (en curso)
