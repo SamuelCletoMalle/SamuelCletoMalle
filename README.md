@@ -15,7 +15,7 @@ Empecé programando en Java, aprendí Python por mi cuenta y vengo del mundo de 
 
 ## 🚀 Proyectos
 
-- **[DAM](https://github.com/SamuelCletoMalle/DAM)** – Ejercicios y prácticas del ciclo DAM por asignatura: Programación en Java (POO, herencia, ficheros, streams), PL/SQL (cursores, triggers, funciones) y Lenguaje de Marcas (DTD, XSD)
+- **[DAM](https://github.com/SamuelCletoMalle/DAM)** – Ejercicios y prácticas del ciclo DAM por asignatura: Programación en Java (POO, herencia, ficheros, streams), PL/SQL (cursores, triggers, funciones) y Lenguaje de Marcas (HTML, JavaScript, DTD, XSD), Entornos de Desarrollo (pruebas unitarias, UML, Git) y Sistemas Informáticos (scripts Bash y PowerShell)
 - **[CursoPython](https://github.com/SamuelCletoMalle/CursoPython)** – Ejercicios y proyectos finales de mi aprendizaje de Python (operadores, estructuras de datos...)
 - **[DAM-con-MarcosGarcia](https://github.com/SamuelCletoMalle/DAM-con-MarcosGarcia)** – Repositorio de clase de mi compañero **Marcos García Lorenzo** (autor), que me lo ha compartido: Java, SQL, PL/SQL, MongoDB y Acceso a Datos
 
@@ -23,7 +23,15 @@ Empecé programando en Java, aprendí Python por mi cuenta y vengo del mundo de 
 
 - DAM – Desarrollo de Aplicaciones Multiplataforma (en curso)
 - SMR – Sistemas Microinformáticos y Redes
-- Python Essentials 1 – Cisco Networking Academy / OpenEDG
+- Python Essentials 1 – Cisco Networking Academy / OpenEDG (30/09/2026)
+- Python Essentials 2 – Cisco Networking Academy / OpenEDG (01/10/2026)
+
+## 📜 Certificados
+
+- **Fundamentos de Python 1 y 2** – Cisco Networking Academy (2026)
+- **Cursor con Python: desarrollo inteligente con IA** – 8 h (feb. 2026)
+- **Domina la IA con Gemini** – 2 h (ene. 2026)
+- **Business English, Part 1** – 8 h (ene. 2026)
 
 ## 📫 Contacto
 
