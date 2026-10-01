@@ -23,8 +23,8 @@ Empecé programando en Java, aprendí Python por mi cuenta y vengo del mundo de 
 
 - DAM – Desarrollo de Aplicaciones Multiplataforma (en curso)
 - SMR – Sistemas Microinformáticos y Redes
-- Python Essentials 1 – Cisco Networking Academy / OpenEDG (30/09/2026)
-- Python Essentials 2 – Cisco Networking Academy / OpenEDG (01/10/2026)
+- Python Essentials 1 – Cisco Networking Academy / OpenEDG 
+- Python Essentials 2 – Cisco Networking Academy / OpenEDG 
 
 ## 📜 Certificados
 
