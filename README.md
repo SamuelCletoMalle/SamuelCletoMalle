@@ -29,6 +29,8 @@ Empecé programando en Java, aprendí Python por mi cuenta y vengo del mundo de 
 ## 📜 Certificados
 
 - **Fundamentos de Python 1 y 2** – Cisco Networking Academy (2026)
+- **Curso de SEO para IA y Google** – BIG school, jornadas de 6 h (may. 2026)
+- **Iniciación al Desarrollo con IA: de 0 a Producción** – BIG school, jornadas de 6 h (mar. 2026)
 - **Cursor con Python: desarrollo inteligente con IA** – 8 h (feb. 2026)
 - **Domina la IA con Gemini** – 2 h (ene. 2026)
 - **Business English, Part 1** – 8 h (ene. 2026)
