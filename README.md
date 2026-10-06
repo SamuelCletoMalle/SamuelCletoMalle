@@ -29,10 +29,10 @@ Empecé programando en Java, aprendí Python por mi cuenta y vengo del mundo de 
 - SMR – Sistemas Microinformáticos y Redes
 - Python Essentials 1 – Cisco Networking Academy / OpenEDG 
 - Python Essentials 2 – Cisco Networking Academy / OpenEDG 
-- AWS Cloud Practitioner Essentials – Amazon Web Services (AWS Training & Certification)
 
 ## 📜 Certificados
 
+- **AWS Cloud Practitioner Essentials** – Amazon Web Services, AWS Training & Certification (oct. 2026)
 - **Fundamentos de Python 1 y 2** – Cisco Networking Academy (2026)
 - **Curso de SEO para IA y Google** – BIG school, jornadas de 6 h (may. 2026)
 - **Iniciación al Desarrollo con IA: de 0 a Producción** – BIG school, jornadas de 6 h (mar. 2026)
