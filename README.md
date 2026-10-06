@@ -22,7 +22,7 @@ Empecé programando en Java, aprendí Python por mi cuenta y vengo del mundo de 
 - **[Balanz-App](https://github.com/SamuelCletoMalle/Balanz-App)** – App de control de gastos e ingresos para móvil y web ([probar](https://balanz-app.vercel.app)): Expo, React Native, TypeScript y Supabase. Captura pagos de Apple Pay y SMS del banco, presupuestos, metas de ahorro, importación de Excel y seguridad por usuario (RLS).
 - **[DAM](https://github.com/SamuelCletoMalle/DAM)** – Ejercicios y prácticas del ciclo DAM por asignatura: Programación en Java (POO, herencia, ficheros, streams), PL/SQL (cursores, triggers, funciones), Lenguaje de Marcas (HTML, JavaScript, DTD, XSD), Entornos de Desarrollo (pruebas unitarias, UML, Git) y Sistemas Informáticos (scripts Bash y PowerShell).
 - **[CursoPython](https://github.com/SamuelCletoMalle/CursoPython)** – Ejercicios y proyectos finales de mi aprendizaje de Python (operadores, estructuras de datos...).
-- **[DAM-con-MarcosGarcia](https://github.com/SamuelCletoMalle/DAM-con-MarcosGarcia)** – Repositorio de clase de mi compañero **Marcos García Lorenzo** (autor), que me lo ha compartido: Java, SQL, PL/SQL, MongoDB y Acceso a Datos.
+- **[DAM-con-MarcosGarcia](https://github.com/SamuelCletoMalle/DAM-con-MarcosGarcia)** – Repositorio en cooperacion con mi compañero **Marcos García Lorenzo** (autor) : Java, SQL, PL/SQL, MongoDB y Acceso a Datos.
 
 ## 🎓 Formación
 
