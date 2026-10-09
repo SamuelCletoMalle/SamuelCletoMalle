@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" width="960" height="420" role="img" aria-labelledby="title desc">
+  <title id="title">Samuel Cleto Malle — Desarrollador junior</title>
+  <desc id="desc">Tarjeta de terminal con el perfil de Samuel: formación, objetivo y áreas en las que trabaja.</desc>
+  <defs>
+    <linearGradient id="borde" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#ff8a3d"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <filter id="brillo" x="-20%" y="-30%" width="140%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="pista"><rect x="651" y="78" width="280" height="301" rx="9"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .cursor { animation: parpadeo 1s steps(1) infinite; }
+    @keyframes parpadeo { 50% { opacity: 0; } }
+    .bote { animation: bote .8s cubic-bezier(.5,0,.5,1) infinite alternate; }
+    @keyframes bote { from { transform: translateY(-46px); } to { transform: translateY(0); } }
+  </style>
+
+  <rect width="960" height="420" rx="18" fill="#141821"/>
+  <rect x="9" y="9" width="942" height="402" rx="13" fill="none" stroke="url(#borde)" stroke-width="2"/>
+  <circle cx="35" cy="35" r="5" fill="#ff6b6b"/>
+  <circle cx="54" cy="35" r="5" fill="#ffc861"/>
+  <circle cx="73" cy="35" r="5" fill="#5ee0b0"/>
+  <text x="98" y="41" fill="#8b93a7" font-size="15">samu@dev  ·  profile shell  ·  online</text>
+  <path d="M29 58H931" stroke="#2c3344"/>
+
+  <!-- panel izquierdo -->
+  <rect x="29" y="78" width="594" height="301" rx="9" fill="#1a1f2b" stroke="#ff8a3d" stroke-width="1.5"/>
+  <text x="48" y="111" fill="#2dd4bf" font-size="20" font-weight="700">❯ whoami</text>
+  <text x="48" y="143" fill="#c3c9d6" font-size="18">samuel_cleto</text>
+  <text x="190" y="143" fill="#8b93a7" font-size="18">—</text>
+  <text x="215" y="143" fill="#ffc861" font-size="18">Desarrollador junior</text>
+
+  <path d="M48 166H604" stroke="#2c3344"/>
+  <text x="48" y="196" fill="#8b93a7" font-size="17">formación:</text>
+  <text x="178" y="196" fill="#ffb27a" font-size="17">2º DAM · antes SMR</text>
+  <text x="48" y="225" fill="#8b93a7" font-size="17">objetivo:</text>
+  <text x="178" y="225" fill="#7ee8d9" font-size="17">prácticas o primer puesto como dev</text>
+
+  <text x="48" y="267" fill="#2dd4bf" font-size="20" font-weight="700">❯ ls experiencia/</text>
+  <text x="48" y="299" fill="#ff8a3d" font-size="16">mobile/</text>
+  <text x="200" y="299" fill="#c3c9d6" font-size="16">React Native · Expo · Android Studio</text>
+  <text x="48" y="326" fill="#ff8a3d" font-size="16">backend/</text>
+  <text x="200" y="326" fill="#c3c9d6" font-size="16">Java · Python · Node.js · Supabase</text>
+  <text x="48" y="353" fill="#ff8a3d" font-size="16">sistemas/</text>
+  <text x="200" y="353" fill="#c3c9d6" font-size="16">Windows · Linux · Redes · Hardware</text>
+
+  <!-- panel derecho: pista de baloncesto -->
+  <rect x="651" y="78" width="280" height="301" rx="9" fill="#1a1f2b" stroke="#ff8a3d" stroke-width="1.5"/>
+  <text x="674" y="111" fill="#ffc861" font-size="17">court runtime</text>
+  <g clip-path="url(#pista)">
+    <path d="M651 300H931" stroke="#2c3344" stroke-width="2"/>
+    <path d="M700 300V250a91 91 0 0 1 182 0v50" fill="none" stroke="#2dd4bf" stroke-width="2.5" opacity=".75" filter="url(#brillo)"/>
+    <rect x="752" y="244" width="78" height="56" fill="none" stroke="#2dd4bf" stroke-width="2" opacity=".55"/>
+    <path d="M752 244a39 39 0 0 1 78 0" fill="none" stroke="#2dd4bf" stroke-width="2" opacity=".55"/>
+    <path d="M770 140h42M791 140v10" stroke="#c3c9d6" stroke-width="3"/>
+    <path d="M776 152h30" stroke="#ff8a3d" stroke-width="3"/>
+    <path d="M778 154l5 16M791 154v16M804 154l-5 16" stroke="#c3c9d6" stroke-width="1.2" opacity=".7"/>
+    <g class="bote">
+      <circle cx="850" cy="279" r="19" fill="#ff8a3d"/>
+      <path d="M831 279h38M850 260v38M837 265c8 8 8 20 0 28M863 265c-8 8-8 20 0 28" fill="none" stroke="#1a1f2b" stroke-width="2"/>
+    </g>
+  </g>
+  <text x="674" y="356" fill="#8b93a7" font-size="14">status: siempre aprendiendo<tspan class="cursor">▋</tspan></text>
+</svg>
