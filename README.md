@@ -1,44 +1,153 @@
-# Hola, soy Samuel 👋
+<div align="center">
 
-Estudiante de **2º de DAM** (Desarrollo de Aplicaciones Multiplataforma) en Madrid, buscando **prácticas o mi primer puesto como desarrollador junior**.
+<!-- BANNER: retrato de puntos que se transforma en logos -->
+<a href="https://github.com/SamuelCletoMalle">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-light.svg" width="960" alt="Perfil de Samuel Cleto Malle · Desarrollador junior">
+  </picture>
+</a>
 
-Empecé programando en Java, aprendí Python por mi cuenta y vengo del mundo de los sistemas (Grado Medio SMR y experiencia como técnico informático).
+<br>
 
-## 🛠️ Tecnologías
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF8A3D&center=true&vCenter=true&width=900&lines=Samuel+Cleto+Malle+%E2%80%94+Desarrollador+junior;2%C2%BA+DAM+%C2%B7+Java+%7C+Python+%7C+JavaScript+%7C+SQL;Apps+m%C3%B3viles+%C2%B7+Backend+%C2%B7+IA;Buscando+pr%C3%A1cticas+o+primer+puesto+%F0%9F%9A%80" alt="Typing SVG">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=SamuelCletoMalle&style=flat&color=ff8a3d&label=visitas+al+perfil" alt="visitas al perfil">
 
-## 🚀 Proyectos
+</div>
 
-- **[Balanz-App](https://github.com/SamuelCletoMalle/Balanz-App)** – App de control de gastos e ingresos para móvil y web ([probar](https://balanz-app.vercel.app)): Expo, React Native, TypeScript y Supabase. Captura pagos de Apple Pay y SMS del banco, presupuestos, metas de ahorro, importación de Excel y seguridad por usuario (RLS).
-- **[DAM](https://github.com/SamuelCletoMalle/DAM)** – Ejercicios y prácticas del ciclo DAM por asignatura: Programación en Java (POO, herencia, ficheros, streams), PL/SQL (cursores, triggers, funciones), Lenguaje de Marcas (HTML, JavaScript, DTD, XSD), Entornos de Desarrollo (pruebas unitarias, UML, Git) y Sistemas Informáticos (scripts Bash y PowerShell).
-- **[CursoPython](https://github.com/SamuelCletoMalle/CursoPython)** – Ejercicios y proyectos finales de mi aprendizaje de Python (operadores, estructuras de datos...).
-- **[DAM-con-MarcosGarcia](https://github.com/SamuelCletoMalle/DAM-con-MarcosGarcia)** – Repositorio en cooperacion con mi compañero **Marcos García Lorenzo** (autor) : Java, SQL, PL/SQL, MongoDB y Acceso a Datos.
+---
 
-## 🎓 Formación
+## `$ whoami`
 
-- DAM – Desarrollo de Aplicaciones Multiplataforma (en curso)
-- SMR – Sistemas Microinformáticos y Redes
+<p align="center">
+  <img src="assets/whoami.svg" width="960" alt="Tarjeta de terminal con el perfil de Samuel">
+</p>
 
-## 📜 Certificados
+<br>
 
-- **AWS Cloud Practitioner Essentials** – Amazon Web Services, AWS Training & Certification (oct. 2026)
-- **Fundamentos de Python 1 y 2** – Cisco Networking Academy (2026)
-- **Curso de SEO para IA y Google** – BIG school, jornadas de 6 h (may. 2026)
-- **Iniciación al Desarrollo con IA: de 0 a Producción** – BIG school, jornadas de 6 h (mar. 2026)
-- **Cursor con Python: desarrollo inteligente con IA** – 8 h (feb. 2026)
-- **Domina la IA con Gemini** – 2 h (ene. 2026)
-- **Business English, Part 1** – 8 h (ene. 2026)
+<div align="center">
 
-## 📫 Contacto
+## `$ cat tech-stack.yaml`
 
-✉️ samuelcletomalle@gmail.com
+<table border="1" cellpadding="14">
+  <thead>
+    <tr>
+      <th colspan="2" align="left"><code>samu:~$ cat tech-stack.yaml</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ✦ lenguajes:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=java" alt="Java">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript">
+      </td>
+      <td width="50%" valign="top"><code>├─ ▣ bases_de_datos:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite">
+        <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ◈ web_y_mobile:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS">
+        <img src="https://skillicons.dev/icons?i=react" alt="React / React Native">
+        <img src="https://skillicons.dev/icons?i=vite" alt="Vite">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio">
+      </td>
+      <td valign="top"><code>├─ ⚙ cloud_y_versiones:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code">
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ▤ sistemas:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=windows" alt="Windows">
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
+        <br><code>hardware</code> <code>redes</code> <code>soporte</code>
+      </td>
+      <td valign="top"><code>╰─ ⌁ explorando:</code><br><br>
+        <code>IA aplicada</code> <code>Gemini API</code> <code>ciberseguridad</code>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>status: estudiando_2º_DAM&nbsp;&nbsp;·&nbsp;&nbsp;disponible: prácticas</code></td>
+    </tr>
+  </tfoot>
+</table>
+
+</div>
+
+---
+
+## `$ cat skills-radar.log`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-light.svg" width="460" alt="Radar de habilidades de Samuel">
+  </picture>
+</p>
+
+<p align="center"><sub><code>signals: radar_de_habilidades · autoevaluado · status: en_crecimiento</code></sub></p>
+
+---
+
+## `$ ls proyectos/ --destacados`
+
+**💰 Balanz — app de finanzas personales**
+> App móvil para controlar gastos: categorías, presupuesto, importación y exportación a Excel con detección de duplicados, base de datos local y sincronización en la nube con login. Empezó como prototipo web y ahora es una app Android. Proyecto de aprendizaje, todavía en desarrollo.
+
+`React Native` `Expo` `TypeScript` `SQLite` `Supabase`
+
+<br>
+
+**🏋️ Zenith AI — app de fitness**
+> App de entrenamiento para uso personal: rutinas, comidas, estadísticas, seguimiento corporal e hidratación, con asistente de IA. Web empaquetada para Android con Capacitor.
+
+`React` `Vite` `TypeScript` `Firebase` `Gemini API` `Capacitor`
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+
+[![Racha de GitHub](https://streak-stats.demolab.com?user=SamuelCletoMalle&theme=github-dark-blue&hide_border=true&ring=FF8A3D&fire=FF8A3D&currStreakLabel=FF8A3D&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<!-- REDES -->
+## `$ connect --contacto`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/SamuelCletoMalle">
+  <img src="https://img.shields.io/badge/GitHub-SamuelCletoMalle-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+<sub>Hecho con 🧡 · @SamuelCletoMalle</sub>
+</div>
