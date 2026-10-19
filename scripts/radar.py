@@ -21,8 +21,8 @@ HABILIDADES = {
 }
 
 TEMAS = {
-    "dark": {"titulo": "#e6edf3", "texto": "#c9d1d9", "anillo": "#30363d", "eje": "#21262d", "color": "#ff8a3d"},
-    "light": {"titulo": "#1f2328", "texto": "#424a53", "anillo": "#d0d7de", "eje": "#eaeef2", "color": "#e2601a"},
+    "dark": {"titulo": "#e6edf3", "texto": "#c9d1d9", "anillo": "#30363d", "eje": "#21262d", "color": "#39ff14"},
+    "light": {"titulo": "#1f2328", "texto": "#424a53", "anillo": "#d0d7de", "eje": "#eaeef2", "color": "#1a7f37"},
 }
 
 W, H = 669, 526

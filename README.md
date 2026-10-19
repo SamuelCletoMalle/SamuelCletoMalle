@@ -7,9 +7,13 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF8A3D&center=true&vCenter=true&width=900&lines=Samuel+Cleto+Malle+%E2%80%94+Desarrollador+junior;2%C2%BA+DAM+%C2%B7+Java+%7C+Python+%7C+JavaScript+%7C+SQL;Backend+%C2%B7+Apps+%C2%B7+Videojuegos+%C2%B7+IA;Buscando+pr%C3%A1cticas+o+primer+puesto+%F0%9F%9A%80" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=Samuel+Cleto+Malle+%E2%80%94+Desarrollador+junior;2%C2%BA+DAM+%C2%B7+Java+%7C+Python+%7C+JavaScript+%7C+SQL;Backend+%C2%B7+Apps+%C2%B7+Videojuegos+%C2%B7+IA;Buscando+pr%C3%A1cticas+o+primer+puesto+%F0%9F%9A%80" alt="Typing SVG">
 
-<img src="https://komarev.com/ghpvc/?username=SamuelCletoMalle&style=flat&color=ff8a3d&label=visitas+al+perfil" alt="visitas al perfil">
+<a href="https://www.linkedin.com/in/samuelcletomalle">
+  <img src="https://img.shields.io/badge/LinkedIn-samuelcletomalle-1a1f2b?style=flat&logo=linkedin&logoColor=39ff14&labelColor=141821" alt="LinkedIn">
+</a>
+<img src="https://img.shields.io/badge/estado-abierto_a_pr%C3%A1cticas-1a1f2b?style=flat&labelColor=141821&color=2ea043" alt="Abierto a prácticas">
+<img src="https://komarev.com/ghpvc/?username=SamuelCletoMalle&style=flat&color=2ea043&label=visitas+al+perfil" alt="visitas al perfil">
 
 </div>
 
@@ -53,7 +57,7 @@
       <td valign="top"><code>├─ ◈ web_apps_y_juegos:</code><br><br>
         <img src="https://skillicons.dev/icons?i=html" alt="HTML">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS">
-        <img src="https://skillicons.dev/icons?i=react" alt="React">
+        <img src="https://skillicons.dev/icons?i=react" alt="React / React Native">
         <img src="https://skillicons.dev/icons?i=vite" alt="Vite">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio">
         <img src="https://skillicons.dev/icons?i=unity" alt="Unity">
@@ -119,30 +123,39 @@
 
 <br>
 
-**🤖 [Programación con IA](https://github.com/SamuelCletoMalle/Programacion-con-IA)**
-> Ejercicios y pruebas programando junto a herramientas de IA.
+**💰 Balanz — app de finanzas personales**
+> App móvil para controlar gastos: categorías, presupuesto, importación y exportación a Excel con detección de duplicados, base de datos local y sincronización en la nube con login. Empezó como prototipo web y ahora es una app Android. Proyecto de aprendizaje, todavía en desarrollo.
 
-`Python` `IA`
+`React Native` `Expo` `TypeScript` `SQLite` `Supabase`
 
 <br>
 
-**🔎 [SEO para IA y Google](https://github.com/SamuelCletoMalle/SEO-para-IA-y-Google)**
-> Cómo posicionar una web tanto en buscadores clásicos como en asistentes de IA.
+**🤖 [Programación con IA](https://github.com/SamuelCletoMalle/Programacion-con-IA)** &nbsp;·&nbsp; **🔎 [SEO para IA y Google](https://github.com/SamuelCletoMalle/SEO-para-IA-y-Google)**
+> Ejercicios programando junto a herramientas de IA, y una guía para posicionar webs en buscadores clásicos y en asistentes de IA.
 
-`HTML` `SEO`
+`Python` `IA` `HTML` `SEO`
 
 ---
 
 ## `$ cat certificados.log`
 
-| | Certificado | Entidad |
-|:---:|---|---|
-| 🎓 | Grado Medio en Sistemas Microinformáticos y Redes (SMR) | — |
-| 🐍 | Python Essentials 1 y Python Essentials 2 | Cisco Networking Academy · OpenEDG |
-| ☁️ | AWS Cloud Practitioner Essentials | AWS |
-| 🧠 | Introducción a la IA moderna | Cisco Networking Academy |
-| 💬 | Build Your First Chatbot | IBM SkillsBuild |
-| ⚡ | Desarrollo de IA y Python con IA | — |
+<div align="center">
+
+<table cellpadding="10">
+  <thead>
+    <tr><th align="left"><code>certificado</code></th><th align="left"><code>entidad</code></th></tr>
+  </thead>
+  <tbody>
+    <tr><td>🎓 Grado Medio en Sistemas Microinformáticos y Redes (SMR)</td><td><code>FP</code></td></tr>
+    <tr><td>🐍 Python Essentials 1 y Python Essentials 2</td><td><code>Cisco · OpenEDG</code></td></tr>
+    <tr><td>☁️ AWS Cloud Practitioner Essentials</td><td><code>AWS</code></td></tr>
+    <tr><td>🧠 Introducción a la IA moderna</td><td><code>Cisco Networking Academy</code></td></tr>
+    <tr><td>💬 Build Your First Chatbot</td><td><code>IBM SkillsBuild</code></td></tr>
+    <tr><td>⚡ Desarrollo de IA y Python con IA</td><td><code>certificado</code></td></tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
@@ -150,10 +163,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelCletoMalle&show_icons=true&hide_border=true&bg_color=141821&title_color=ff8a3d&icon_color=2dd4bf&text_color=c3c9d6&locale=es&rank_icon=github" alt="Estadísticas de GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCletoMalle&layout=compact&hide_border=true&bg_color=141821&title_color=ff8a3d&text_color=c3c9d6&locale=es" alt="Lenguajes más usados">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelCletoMalle&show_icons=true&hide_border=true&bg_color=141821&title_color=39ff14&icon_color=2dd4bf&text_color=c3c9d6&ring_color=39ff14&locale=es&rank_icon=github" alt="Estadísticas de GitHub">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCletoMalle&layout=compact&hide_border=true&bg_color=141821&title_color=39ff14&text_color=c3c9d6&locale=es" alt="Lenguajes más usados">
 
-[![Racha de GitHub](https://streak-stats.demolab.com?user=SamuelCletoMalle&theme=github-dark-blue&hide_border=true&ring=FF8A3D&fire=FF8A3D&currStreakLabel=FF8A3D&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Racha de GitHub](https://streak-stats.demolab.com?user=SamuelCletoMalle&hide_border=true&background=141821&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C3C9D6&currStreakNum=C3C9D6&sideNums=C3C9D6&dates=8B93A7&stroke=2C3344&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelCletoMalle/SamuelCletoMalle/output/snake-dark.svg">
@@ -168,8 +181,11 @@
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/samuelcletomalle">
+  <img src="https://img.shields.io/badge/LinkedIn-samuelcletomalle-1a1f2b?style=for-the-badge&logo=linkedin&logoColor=39ff14&labelColor=141821" alt="LinkedIn">
+</a>&nbsp;&nbsp;
 <a href="https://github.com/SamuelCletoMalle">
-  <img src="https://img.shields.io/badge/GitHub-SamuelCletoMalle-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-SamuelCletoMalle-1a1f2b?style=for-the-badge&logo=github&logoColor=39ff14&labelColor=141821" alt="GitHub">
 </a>
 
 </div>
@@ -178,5 +194,5 @@
 <br>
 
 <div align="center">
-<sub>Hecho con 🧡 · @SamuelCletoMalle</sub>
+<sub><code>samu@dev:~$ exit</code> · hecho con 💚 · @SamuelCletoMalle</sub>
 </div>
