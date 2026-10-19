@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- ESCENA: mini Samu en pixel art -->
+<!-- ESCENA: mini Samuel en pixel art -->
 <a href="https://github.com/SamuelCletoMalle">
-  <img src="assets/samu-hero.svg" width="960" alt="Mini Samu en pixel art: entra andando, se estira, toma café, piensa, programa, se pone la capucha en modo hacker y se va">
+  <img src="assets/samu-hero.svg" width="960" alt="Mini Samuel en pixel art: entra andando, se estira, toma café, piensa, programa, se pone la capucha en modo hacker y se va">
 </a>
 
 <br>
@@ -34,7 +34,7 @@
 <table border="1" cellpadding="14">
   <thead>
     <tr>
-      <th colspan="2" align="left"><code>samu:~$ cat tech-stack.yaml</code></th>
+      <th colspan="2" align="left"><code>samuel:~$ cat tech-stack.yaml</code></th>
     </tr>
   </thead>
   <tbody>
@@ -162,6 +162,6 @@
 
 <br><br>
 
-<img src="assets/footer.svg" width="960" alt="samu@dev:~$ git commit -m gracias por pasarte por mi perfil · abierto a prácticas">
+<img src="assets/footer.svg" width="960" alt="samuel@dev:~$ git commit -m gracias por pasarte por mi perfil · abierto a prácticas">
 
 </div>
