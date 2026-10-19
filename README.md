@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-samuelcletomalle-1a1f2b?style=flat&logo=linkedin&logoColor=39ff14&labelColor=141821" alt="LinkedIn">
 </a>
 <img src="https://img.shields.io/badge/estado-abierto_a_pr%C3%A1cticas-1a1f2b?style=flat&labelColor=141821&color=2ea043" alt="Abierto a prácticas">
-<img src="https://komarev.com/ghpvc/?username=SamuelCletoMalle&style=flat&color=2ea043&label=visitas+al+perfil" alt="visitas al perfil">
+<img src="https://hits.sh/github.com/SamuelCletoMalle.svg?label=visitas%20al%20perfil&color=2ea043&labelColor=141821" alt="visitas al perfil">
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="960" alt="separador"></p>
 
 ## `$ whoami`
 
@@ -91,7 +91,7 @@
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="960" alt="separador"></p>
 
 ## `$ cat skills-radar.log`
 
@@ -105,11 +105,11 @@
 
 <p align="center"><sub><code>signals: radar_de_habilidades · autoevaluado · status: en_crecimiento</code></sub></p>
 
----
+<p align="center"><img src="assets/divider.svg" width="960" alt="separador"></p>
 
 ## `$ ls proyectos/ --destacados`
 
-**🎮 [RollRush](https://github.com/SamuelCletoMalle/RollRush-Proyecto-Final) — proyecto final de DAM**
+**🎮 RollRush — proyecto final de DAM**
 > Videojuego 3D tipo *runner* infinito en tercera persona: controlas una bola que avanza sola, esquiva y salta obstáculos cada vez más rápido y cambia de bioma cada 1.000 metros. Batiendo récords se desbloquean nuevos personajes. En desarrollo.
 
 `Unity` `Animator` `JSON` `Git`
@@ -123,7 +123,7 @@
 
 <br>
 
-**💰 Balanz — app de finanzas personales**
+**💰 [Balanz](https://github.com/SamuelCletoMalle/Balanz-App) — app de finanzas personales**
 > App móvil para controlar gastos: categorías, presupuesto, importación y exportación a Excel con detección de duplicados, base de datos local y sincronización en la nube con login. Empezó como prototipo web y ahora es una app Android. Proyecto de aprendizaje, todavía en desarrollo.
 
 `React Native` `Expo` `TypeScript` `SQLite` `Supabase`
@@ -135,29 +135,15 @@
 
 `Python` `IA` `HTML` `SEO`
 
----
+<p align="center"><img src="assets/divider.svg" width="960" alt="separador"></p>
 
 ## `$ cat certificados.log`
 
-<div align="center">
+<p align="center">
+  <img src="assets/logros.svg" width="960" alt="Certificados: Grado Medio SMR, Python Essentials 1 y 2 (Cisco), AWS Cloud Practitioner Essentials, Introducción a la IA moderna (Cisco), Build Your First Chatbot (IBM SkillsBuild) y Desarrollo de IA y Python con IA">
+</p>
 
-<table cellpadding="10">
-  <thead>
-    <tr><th align="left"><code>certificado</code></th><th align="left"><code>entidad</code></th></tr>
-  </thead>
-  <tbody>
-    <tr><td>🎓 Grado Medio en Sistemas Microinformáticos y Redes (SMR)</td><td><code>FP</code></td></tr>
-    <tr><td>🐍 Python Essentials 1 y Python Essentials 2</td><td><code>Cisco · OpenEDG</code></td></tr>
-    <tr><td>☁️ AWS Cloud Practitioner Essentials</td><td><code>AWS</code></td></tr>
-    <tr><td>🧠 Introducción a la IA moderna</td><td><code>Cisco Networking Academy</code></td></tr>
-    <tr><td>💬 Build Your First Chatbot</td><td><code>IBM SkillsBuild</code></td></tr>
-    <tr><td>⚡ Desarrollo de IA y Python con IA</td><td><code>certificado</code></td></tr>
-  </tbody>
-</table>
-
-</div>
-
----
+<p align="center"><img src="assets/divider.svg" width="960" alt="separador"></p>
 
 ## `$ git log --stats`
 
@@ -175,7 +161,7 @@
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="960" alt="separador"></p>
 
 ## `$ connect --contacto`
 
@@ -188,11 +174,8 @@
   <img src="https://img.shields.io/badge/GitHub-SamuelCletoMalle-1a1f2b?style=for-the-badge&logo=github&logoColor=39ff14&labelColor=141821" alt="GitHub">
 </a>
 
-</div>
+<br><br>
 
-<br>
-<br>
+<img src="assets/footer.svg" width="960" alt="samu@dev:~$ git commit -m gracias por pasarte por mi perfil · abierto a prácticas">
 
-<div align="center">
-<sub><code>samu@dev:~$ exit</code> · hecho con 💚 · @SamuelCletoMalle</sub>
 </div>
