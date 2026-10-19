@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/samuelcletomalle">
   <img src="https://img.shields.io/badge/LinkedIn-samuelcletomalle-1a1f2b?style=flat&logo=linkedin&logoColor=39ff14&labelColor=141821" alt="LinkedIn">
 </a>
-<img src="https://img.shields.io/badge/estado-abierto_a_pr%C3%A1cticas-1a1f2b?style=flat&labelColor=141821&color=2ea043" alt="Abierto a prácticas">
+<img src="https://img.shields.io/badge/Estado-abierto_a_pr%C3%A1cticas-1a1f2b?style=flat&labelColor=141821&color=2ea043" alt="Abierto a prácticas">
 <img src="https://hits.sh/github.com/SamuelCletoMalle.svg?label=visitas%20al%20perfil&color=2ea043&labelColor=141821" alt="visitas al perfil">
 
 </div>
