@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 250" width="470" height="250" role="img" aria-labelledby="t">
+<title id="t">SEO para IA y Google</title><defs><linearGradient id="borde" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#39ff14"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+<linearGradient id="g" x1="0" x2="0" y1="1" y2="0"><stop stop-color="#2ea043"/><stop offset="1" stop-color="#39ff14"/></linearGradient></defs><style>text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+.cursor{animation:parp 1s steps(1) infinite}@keyframes parp{50%{opacity:0}}
+.pulso{animation:pulso 1.6s ease-in-out infinite}@keyframes pulso{50%{opacity:.25}}
+.ico{animation:flota 2.6s ease-in-out infinite}@keyframes flota{50%{transform:translateY(-5px)}}
+.ojo{animation:parp 2.2s steps(1) infinite}
+.lupa{animation:busca 3.2s ease-in-out infinite}@keyframes busca{50%{transform:translate(-8px,4px)}}</style>
+<rect width="470" height="250" rx="18" fill="#141821"/>
+<rect x="9" y="9" width="452" height="232" rx="13" fill="none" stroke="url(#borde)" stroke-width="2"/>
+<circle cx="35" cy="35" r="5" fill="#ff6b6b"/><circle cx="54" cy="35" r="5" fill="#ffc861"/><circle cx="73" cy="35" r="5" fill="#5ee0b0"/>
+<text x="98" y="41" fill="#8b93a7" font-size="15">~/proyectos  ·  repo</text>
+<path d="M29 58H441" stroke="#2c3344"/>
+<text x="29" y="94" fill="#2dd4bf" font-size="16" font-weight="700">❯ seo --audit</text>
+<text x="29" y="128" fill="#39ff14" font-size="21" font-weight="700">SEO para IA y Google</text>
+<text x="29" y="158" fill="#c3c9d6" font-size="13.5">Guía para posicionar webs en buscadores</text>
+<text x="29" y="178" fill="#c3c9d6" font-size="13.5">clásicos y en asistentes de IA.</text>
+<rect x="29" y="198" width="54" height="28" rx="6" fill="#0f2a1a" stroke="#2ea043"/>
+<text x="40" y="217" fill="#7ee787" font-size="13">HTML</text>
+<rect x="93" y="198" width="46" height="28" rx="6" fill="#0f2a1a" stroke="#2ea043"/>
+<text x="104" y="217" fill="#7ee787" font-size="13">SEO</text>
+<rect x="149" y="198" width="38" height="28" rx="6" fill="#0f2a1a" stroke="#2ea043"/>
+<text x="160" y="217" fill="#7ee787" font-size="13">IA</text>
+<g class="lupa"><circle cx="390" cy="104" r="20" fill="#1a1f2b" stroke="#39ff14" stroke-width="5"/>
+<rect x="383" y="97" width="6" height="6" fill="#2dd4bf"/><rect x="405" y="118" width="8" height="22" fill="#2dd4bf" transform="rotate(-45 409 129)"/></g>
+</svg>
