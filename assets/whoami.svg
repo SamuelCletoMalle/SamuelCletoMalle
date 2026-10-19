@@ -50,7 +50,7 @@
   <text x="48" y="299" fill="#39ff14" font-size="16">backend/</text>
   <text x="200" y="299" fill="#c3c9d6" font-size="16">Java · Python · FastAPI · SQL</text>
   <text x="48" y="326" fill="#39ff14" font-size="16">apps_y_juegos/</text>
-  <text x="200" y="326" fill="#c3c9d6" font-size="16">React · Android · Unity</text>
+  <text x="200" y="326" fill="#c3c9d6" font-size="16">React · React Native · Android</text>
   <text x="48" y="353" fill="#39ff14" font-size="16">sistemas/</text>
   <text x="200" y="353" fill="#c3c9d6" font-size="16">Windows · Linux · Redes · Hardware</text>
 
@@ -59,20 +59,20 @@
   <text x="674" y="111" fill="#2dd4bf" font-size="18" font-weight="700">❯ ps --mine</text>
 
   <circle cx="680" cy="146" r="4" fill="#5ee0b0" class="pulso"/>
-  <text x="692" y="151" fill="#ffc861" font-size="15">rollrush.exe</text>
-  <text x="692" y="171" fill="#8b93a7" font-size="12">juego 3D · Unity · TFG</text>
+  <text x="692" y="151" fill="#ffc861" font-size="15">dam_2.curso</text>
+  <text x="692" y="171" fill="#8b93a7" font-size="12">desarrollo de apps multiplataforma</text>
   <rect x="692" y="180" width="192" height="8" rx="4" fill="#2c3344"/>
   <rect x="692" y="180" width="0" height="8" rx="4" fill="url(#barra)" class="p1"/>
 
   <circle cx="680" cy="214" r="4" fill="#5ee0b0" class="pulso"/>
-  <text x="692" y="219" fill="#ffc861" font-size="15">centro_de_mando</text>
-  <text x="692" y="239" fill="#8b93a7" font-size="12">agentes IA · FastAPI + React</text>
+  <text x="692" y="219" fill="#ffc861" font-size="15">balanz.app</text>
+  <text x="692" y="239" fill="#8b93a7" font-size="12">finanzas · React Native</text>
   <rect x="692" y="248" width="192" height="8" rx="4" fill="#2c3344"/>
   <rect x="692" y="248" width="0" height="8" rx="4" fill="url(#barra)" class="p2"/>
 
   <circle cx="680" cy="282" r="4" fill="#5ee0b0" class="pulso"/>
-  <text x="692" y="287" fill="#ffc861" font-size="15">dam_2.curso</text>
-  <text x="692" y="307" fill="#8b93a7" font-size="12">prácticas FCT · desde marzo</text>
+  <text x="692" y="287" fill="#ffc861" font-size="15">practicas.fct</text>
+  <text x="692" y="307" fill="#8b93a7" font-size="12">disponible · jornada completa marzo</text>
   <rect x="692" y="316" width="192" height="8" rx="4" fill="#2c3344"/>
   <rect x="692" y="316" width="0" height="8" rx="4" fill="url(#barra)" class="p3"/>
 

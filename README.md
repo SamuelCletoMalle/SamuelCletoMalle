@@ -17,7 +17,7 @@
 
 </div>
 
-<p align="center"><img src="assets/divider.svg" width="960" alt="separador"></p>
+<p align="center"><img src="assets/divider-walk.svg" width="960" alt="separador animado"></p>
 
 ## `$ whoami`
 
@@ -91,7 +91,7 @@
 
 </div>
 
-<p align="center"><img src="assets/divider.svg" width="960" alt="separador"></p>
+<p align="center"><img src="assets/divider-typing.svg" width="960" alt="separador animado"></p>
 
 ## `$ cat skills-radar.log`
 
@@ -105,23 +105,9 @@
 
 <p align="center"><sub><code>signals: radar_de_habilidades · autoevaluado · status: en_crecimiento</code></sub></p>
 
-<p align="center"><img src="assets/divider.svg" width="960" alt="separador"></p>
+<p align="center"><img src="assets/divider-think.svg" width="960" alt="separador animado"></p>
 
 ## `$ ls proyectos/ --destacados`
-
-**🎮 RollRush — proyecto final de DAM**
-> Videojuego 3D tipo *runner* infinito en tercera persona: controlas una bola que avanza sola, esquiva y salta obstáculos cada vez más rápido y cambia de bioma cada 1.000 metros. Batiendo récords se desbloquean nuevos personajes. En desarrollo.
-
-`Unity` `Animator` `JSON` `Git`
-
-<br>
-
-**🛰️ Centro de Mando — panel personal con agentes de IA**
-> Panel web propio que reúne las herramientas que uso a diario y varios agentes de IA que hacen tareas por mí. Backend con API REST y base de datos en la nube, desplegado en un plan gratuito. En desarrollo.
-
-`FastAPI` `React` `PostgreSQL` `Neon` `Render`
-
-<br>
 
 **💰 [Balanz](https://github.com/SamuelCletoMalle/Balanz-App) — app de finanzas personales**
 > App móvil para controlar gastos: categorías, presupuesto, importación y exportación a Excel con detección de duplicados, base de datos local y sincronización en la nube con login. Empezó como prototipo web y ahora es una app Android. Proyecto de aprendizaje, todavía en desarrollo.
@@ -135,7 +121,7 @@
 
 `Python` `IA` `HTML` `SEO`
 
-<p align="center"><img src="assets/divider.svg" width="960" alt="separador"></p>
+<p align="center"><img src="assets/divider-stretch.svg" width="960" alt="separador animado"></p>
 
 ## `$ cat certificados.log`
 
@@ -143,7 +129,7 @@
   <img src="assets/logros.svg" width="960" alt="Certificados: Grado Medio SMR, Python Essentials 1 y 2 (Cisco), AWS Cloud Practitioner Essentials, Introducción a la IA moderna (Cisco), Build Your First Chatbot (IBM SkillsBuild) y Desarrollo de IA y Python con IA">
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="960" alt="separador"></p>
+<p align="center"><img src="assets/divider-coffee.svg" width="960" alt="separador animado"></p>
 
 ## `$ git log --stats`
 
@@ -161,7 +147,7 @@
 
 </div>
 
-<p align="center"><img src="assets/divider.svg" width="960" alt="separador"></p>
+<p align="center"><img src="assets/divider-hood.svg" width="960" alt="separador animado"></p>
 
 ## `$ connect --contacto`
 
