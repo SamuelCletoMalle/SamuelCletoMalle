@@ -147,7 +147,7 @@
 
 </div>
 
-<p align="center"><img src="assets/divider-hood.svg" width="960" alt="separador animado"></p>
+<p align="center"><img src="assets/divider-walk.svg" width="960" alt="separador animado"></p>
 
 ## `$ connect --contacto`
 
