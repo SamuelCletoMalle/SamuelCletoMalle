@@ -17,15 +17,26 @@
 
 </div>
 
-<p align="center"><img src="assets/divider-walk.svg" width="960" alt="separador animado"></p>
-
 ## `$ whoami`
 
 <p align="center">
   <img src="assets/whoami.svg" width="960" alt="Tarjeta de terminal con el perfil de Samuel">
 </p>
 
-<br>
+<p align="center"><img src="assets/divider-walk.svg" width="960" alt="separador animado"></p>
+
+## `$ ls proyectos/ --destacados`
+
+<p align="center">
+  <a href="https://github.com/SamuelCletoMalle/Balanz-App">
+    <img src="assets/proyecto-balanz.svg" width="960" alt="Balanz: app de finanzas personales con React Native, Expo, TypeScript, SQLite y Supabase">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SamuelCletoMalle/Programacion-con-IA"><img src="assets/proyecto-ia.svg" width="49%" alt="Programación con IA"></a>
+  <a href="https://github.com/SamuelCletoMalle/SEO-para-IA-y-Google"><img src="assets/proyecto-seo.svg" width="49%" alt="SEO para IA y Google"></a>
+</p>
 
 <div align="center">
 
@@ -91,54 +102,18 @@
 
 </div>
 
-<p align="center"><img src="assets/divider-typing.svg" width="960" alt="separador animado"></p>
-
-## `$ cat skills-radar.log`
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-    <img src="assets/radar-light.svg" width="460" alt="Radar de habilidades de Samuel">
-  </picture>
-</p>
-
-<p align="center"><sub><code>signals: radar_de_habilidades · autoevaluado · status: en_crecimiento</code></sub></p>
-
-<p align="center"><img src="assets/divider-think.svg" width="960" alt="separador animado"></p>
-
-## `$ ls proyectos/ --destacados`
-
-**💰 [Balanz](https://github.com/SamuelCletoMalle/Balanz-App) — app de finanzas personales**
-> App móvil para controlar gastos: categorías, presupuesto, importación y exportación a Excel con detección de duplicados, base de datos local y sincronización en la nube con login. Empezó como prototipo web y ahora es una app Android. Proyecto de aprendizaje, todavía en desarrollo.
-
-`React Native` `Expo` `TypeScript` `SQLite` `Supabase`
-
-<br>
-
-**🤖 [Programación con IA](https://github.com/SamuelCletoMalle/Programacion-con-IA)** &nbsp;·&nbsp; **🔎 [SEO para IA y Google](https://github.com/SamuelCletoMalle/SEO-para-IA-y-Google)**
-> Ejercicios programando junto a herramientas de IA, y una guía para posicionar webs en buscadores clásicos y en asistentes de IA.
-
-`Python` `IA` `HTML` `SEO`
-
-<p align="center"><img src="assets/divider-stretch.svg" width="960" alt="separador animado"></p>
-
 ## `$ cat certificados.log`
 
 <p align="center">
   <img src="assets/logros.svg" width="960" alt="Certificados: Grado Medio SMR, Python Essentials 1 y 2 (Cisco), AWS Cloud Practitioner Essentials, Introducción a la IA moderna (Cisco), Build Your First Chatbot (IBM SkillsBuild) y Desarrollo de IA y Python con IA">
 </p>
 
-<p align="center"><img src="assets/divider-coffee.svg" width="960" alt="separador animado"></p>
 
 ## `$ git log --stats`
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelCletoMalle&show_icons=true&hide_border=true&bg_color=141821&title_color=39ff14&icon_color=2dd4bf&text_color=c3c9d6&ring_color=39ff14&locale=es&rank_icon=github" alt="Estadísticas de GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCletoMalle&layout=compact&hide_border=true&bg_color=141821&title_color=39ff14&text_color=c3c9d6&locale=es" alt="Lenguajes más usados">
-
-[![Racha de GitHub](https://streak-stats.demolab.com?user=SamuelCletoMalle&hide_border=true&background=141821&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C3C9D6&currStreakNum=C3C9D6&sideNums=C3C9D6&dates=8B93A7&stroke=2C3344&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelCletoMalle/SamuelCletoMalle/output/snake-dark.svg">
@@ -147,7 +122,7 @@
 
 </div>
 
-<p align="center"><img src="assets/divider-walk.svg" width="960" alt="separador animado"></p>
+<p align="center"><img src="assets/divider-coffee.svg" width="960" alt="separador animado"></p>
 
 ## `$ connect --contacto`
 
