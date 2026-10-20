@@ -8,6 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=Samuel+Cleto+Malle+%E2%80%94+Desarrollador+junior;2%C2%BA+DAM+%C2%B7+Java+%7C+Python+%7C+JavaScript+%7C+SQL;Backend+%C2%B7+Apps+%C2%B7+Videojuegos+%C2%B7+IA;Buscando+pr%C3%A1cticas+o+primer+puesto+%F0%9F%9A%80" alt="Typing SVG">
 
 <a href="https://www.linkedin.com/in/samuelcletomalle"><img src="https://img.shields.io/badge/LinkedIn-samuelcletomalle-1a1f2b?style=flat&logo=linkedin&logoColor=39ff14&labelColor=141821" alt="LinkedIn"></a>
+<a href="https://samuelcletomalle.github.io"><img src="https://img.shields.io/badge/Portfolio-samuelcletomalle.github.io-1a1f2b?style=flat&logo=githubpages&logoColor=39ff14&labelColor=141821" alt="Portfolio"></a>
 <img src="https://img.shields.io/badge/Estado-Abierto%20a%20pr%C3%A1cticas-1a1f2b?style=flat&labelColor=141821&color=2ea043" alt="Abierto a prácticas">
 <img src="https://hits.sh/github.com/SamuelCletoMalle/perfil.svg?label=Visitas%20al%20perfil&color=2ea043&labelColor=141821" alt="visitas al perfil">
 
