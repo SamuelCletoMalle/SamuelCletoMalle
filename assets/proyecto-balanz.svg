@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" width="960" height="400" role="img" aria-labelledby="t">
 <title id="t">Balanz — app de finanzas personales</title>
-<defs><linearGradient id="borde" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#39ff14"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
-<linearGradient id="g" x1="0" x2="0" y1="1" y2="0"><stop stop-color="#2ea043"/><stop offset="1" stop-color="#39ff14"/></linearGradient></defs>
+<defs><linearGradient id="borde" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#5b9dff"/><stop offset="1" stop-color="#28bee6"/></linearGradient>
+<linearGradient id="g" x1="0" x2="0" y1="1" y2="0"><stop stop-color="#3b7ddd"/><stop offset="1" stop-color="#5b9dff"/></linearGradient></defs>
 <style>text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
 .cursor{animation:parp 1s steps(1) infinite}@keyframes parp{50%{opacity:0}}
 .pulso{animation:pulso 1.6s ease-in-out infinite}@keyframes pulso{50%{opacity:.25}}
@@ -17,46 +17,46 @@
 .r0{animation:entra 6s 1.20s infinite}
 .r1{animation:entra 6s 1.55s infinite}
 .r2{animation:entra 6s 1.90s infinite}</style>
-<rect width="960" height="400" rx="18" fill="#141821"/>
+<rect width="960" height="400" rx="18" fill="#0b1222"/>
 <rect x="9" y="9" width="942" height="382" rx="13" fill="none" stroke="url(#borde)" stroke-width="2"/>
 <circle cx="35" cy="35" r="5" fill="#ff6b6b"/><circle cx="54" cy="35" r="5" fill="#ffc861"/><circle cx="73" cy="35" r="5" fill="#5ee0b0"/>
-<text x="98" y="41" fill="#8b93a7" font-size="15">samuel@dev  ·  ~/proyectos/balanz  ·  destacado</text>
-<path d="M29 58H931" stroke="#2c3344"/>
-<rect x="29" y="74" width="640" height="302" rx="9" fill="#1a1f2b" stroke="#2ea043" stroke-width="1.5"/>
-<text x="50" y="112" fill="#2dd4bf" font-size="18" font-weight="700">❯ ./balanz --info</text>
-<text x="50" y="152" fill="#39ff14" font-size="30" font-weight="700">Balanz</text>
+<text x="98" y="41" fill="#9aa6bd" font-size="15">samuel@dev  ·  ~/proyectos/balanz  ·  destacado</text>
+<path d="M29 58H931" stroke="#1e2a44"/>
+<rect x="29" y="74" width="640" height="302" rx="9" fill="#111a2e" stroke="#3b7ddd" stroke-width="1.5"/>
+<text x="50" y="112" fill="#28bee6" font-size="18" font-weight="700">❯ ./balanz --info</text>
+<text x="50" y="152" fill="#5b9dff" font-size="30" font-weight="700">Balanz</text>
 <text x="178" y="152" fill="#ffc861" font-size="18">app de finanzas personales</text>
-<text x="50" y="186" fill="#c3c9d6" font-size="15">Controla gastos por categorías y presupuesto, importa y</text>
-<text x="50" y="208" fill="#c3c9d6" font-size="15">exporta a Excel detectando duplicados, guarda en local</text>
-<text x="50" y="230" fill="#c3c9d6" font-size="15">y sincroniza en la nube con login.</text>
-<rect x="50" y="256" width="126" height="28" rx="6" fill="#0f2a1a" stroke="#2ea043"/>
-<text x="61" y="275" fill="#7ee787" font-size="14">React Native</text>
-<rect x="186" y="256" width="56" height="28" rx="6" fill="#0f2a1a" stroke="#2ea043"/>
-<text x="197" y="275" fill="#7ee787" font-size="14">Expo</text>
-<rect x="252" y="256" width="108" height="28" rx="6" fill="#0f2a1a" stroke="#2ea043"/>
-<text x="263" y="275" fill="#7ee787" font-size="14">TypeScript</text>
-<rect x="370" y="256" width="74" height="28" rx="6" fill="#0f2a1a" stroke="#2ea043"/>
-<text x="381" y="275" fill="#7ee787" font-size="14">SQLite</text>
-<rect x="454" y="256" width="91" height="28" rx="6" fill="#0f2a1a" stroke="#2ea043"/>
-<text x="465" y="275" fill="#7ee787" font-size="14">Supabase</text>
-<text x="50" y="324" fill="#8b93a7" font-size="14"><tspan fill="#39ff14">✔</tspan> categorías  <tspan fill="#39ff14">✔</tspan> presupuesto  <tspan fill="#39ff14">✔</tspan> Excel  <tspan fill="#39ff14">✔</tspan> login + nube</text>
-<text x="50" y="356" fill="#2dd4bf" font-size="14">❯ git clone github.com/SamuelCletoMalle/Balanz-App<tspan class="cursor" fill="#39ff14">█</tspan></text>
-<circle class="pulso" cx="520" cy="112" r="5" fill="#39ff14"/>
-<text x="532" y="117" fill="#7ee787" font-size="14">en desarrollo</text>
+<text x="50" y="186" fill="#dbe3f3" font-size="15">Controla gastos por categorías y presupuesto, importa y</text>
+<text x="50" y="208" fill="#dbe3f3" font-size="15">exporta a Excel detectando duplicados, guarda en local</text>
+<text x="50" y="230" fill="#dbe3f3" font-size="15">y sincroniza en la nube con login.</text>
+<rect x="50" y="256" width="126" height="28" rx="6" fill="#0c1a33" stroke="#3b7ddd"/>
+<text x="61" y="275" fill="#7db3ff" font-size="14">React Native</text>
+<rect x="186" y="256" width="56" height="28" rx="6" fill="#0c1a33" stroke="#3b7ddd"/>
+<text x="197" y="275" fill="#7db3ff" font-size="14">Expo</text>
+<rect x="252" y="256" width="108" height="28" rx="6" fill="#0c1a33" stroke="#3b7ddd"/>
+<text x="263" y="275" fill="#7db3ff" font-size="14">TypeScript</text>
+<rect x="370" y="256" width="74" height="28" rx="6" fill="#0c1a33" stroke="#3b7ddd"/>
+<text x="381" y="275" fill="#7db3ff" font-size="14">SQLite</text>
+<rect x="454" y="256" width="91" height="28" rx="6" fill="#0c1a33" stroke="#3b7ddd"/>
+<text x="465" y="275" fill="#7db3ff" font-size="14">Supabase</text>
+<text x="50" y="324" fill="#9aa6bd" font-size="14"><tspan fill="#5b9dff">✔</tspan> categorías  <tspan fill="#5b9dff">✔</tspan> presupuesto  <tspan fill="#5b9dff">✔</tspan> Excel  <tspan fill="#5b9dff">✔</tspan> login + nube</text>
+<text x="50" y="356" fill="#28bee6" font-size="14">❯ git clone github.com/SamuelCletoMalle/Balanz-App<tspan class="cursor" fill="#5b9dff">█</tspan></text>
+<circle class="pulso" cx="520" cy="112" r="5" fill="#5b9dff"/>
+<text x="532" y="117" fill="#7db3ff" font-size="14">en desarrollo</text>
 <!-- móvil -->
 <g class="moneda"><circle cx="922" cy="78" r="15" fill="#ffc861" stroke="#b8860b" stroke-width="3"/><text x="922" y="84" fill="#7a5400" font-size="16" font-weight="700" text-anchor="middle">€</text></g>
 <rect x="700" y="74" width="220" height="300" rx="18" fill="#0b0e14" stroke="url(#borde)" stroke-width="3"/>
-<rect x="785" y="84" width="50" height="6" rx="3" fill="#2c3344"/>
-<text x="722" y="114" fill="#8b93a7" font-size="11">saldo del mes</text>
-<text x="722" y="140" fill="#39ff14" font-size="22" font-weight="700">1.284,50 €</text>
-<path d="M722 280H898" stroke="#2c3344"/>
+<rect x="785" y="84" width="50" height="6" rx="3" fill="#1e2a44"/>
+<text x="722" y="114" fill="#9aa6bd" font-size="11">saldo del mes</text>
+<text x="722" y="140" fill="#5b9dff" font-size="22" font-weight="700">1.284,50 €</text>
+<path d="M722 280H898" stroke="#1e2a44"/>
 <rect class="b0" x="736" y="221" width="16" height="58" fill="url(#g)" style="transform-origin:736px 279px"/>
 <rect class="b1" x="762" y="187" width="16" height="92" fill="url(#g)" style="transform-origin:762px 279px"/>
 <rect class="b2" x="788" y="239" width="16" height="40" fill="url(#g)" style="transform-origin:788px 279px"/>
 <rect class="b3" x="814" y="159" width="16" height="120" fill="url(#g)" style="transform-origin:814px 279px"/>
 <rect class="b4" x="840" y="203" width="16" height="76" fill="url(#g)" style="transform-origin:840px 279px"/>
 <rect class="b5" x="866" y="175" width="16" height="104" fill="url(#g)" style="transform-origin:866px 279px"/>
-<g class="r0"><rect x="722" y="296" width="176" height="18" rx="3" fill="#1a1f2b"/><text x="730" y="309" fill="#c3c9d6" font-size="11">café</text><text x="890" y="309" fill="#ff6b6b" font-size="11" text-anchor="end">-1,80 €</text></g>
-<g class="r1"><rect x="722" y="318" width="176" height="18" rx="3" fill="#1a1f2b"/><text x="730" y="331" fill="#c3c9d6" font-size="11">nómina</text><text x="890" y="331" fill="#39ff14" font-size="11" text-anchor="end">+640 €</text></g>
-<g class="r2"><rect x="722" y="340" width="176" height="18" rx="3" fill="#1a1f2b"/><text x="730" y="353" fill="#c3c9d6" font-size="11">súper</text><text x="890" y="353" fill="#ff6b6b" font-size="11" text-anchor="end">-23,4 €</text></g>
+<g class="r0"><rect x="722" y="296" width="176" height="18" rx="3" fill="#111a2e"/><text x="730" y="309" fill="#dbe3f3" font-size="11">café</text><text x="890" y="309" fill="#ff6b6b" font-size="11" text-anchor="end">-1,80 €</text></g>
+<g class="r1"><rect x="722" y="318" width="176" height="18" rx="3" fill="#111a2e"/><text x="730" y="331" fill="#dbe3f3" font-size="11">nómina</text><text x="890" y="331" fill="#5b9dff" font-size="11" text-anchor="end">+640 €</text></g>
+<g class="r2"><rect x="722" y="340" width="176" height="18" rx="3" fill="#111a2e"/><text x="730" y="353" fill="#dbe3f3" font-size="11">súper</text><text x="890" y="353" fill="#ff6b6b" font-size="11" text-anchor="end">-23,4 €</text></g>
 </svg>
