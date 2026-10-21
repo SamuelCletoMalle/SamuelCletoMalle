@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 44" width="288" height="44" role="img" aria-label="LinkedIn samuelcletomalle">
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#5b9dff"/><stop offset="1" stop-color="#28bee6"/></linearGradient></defs>
+<style>text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}.brillo{animation:br 3.5s ease-in-out infinite}@keyframes br{0%,60%{transform:translateX(-80px)}100%{transform:translateX(288px)}}</style>
+<clipPath id="p"><rect width="288" height="44" rx="22"/></clipPath>
+<g clip-path="url(#p)">
+<rect width="288" height="44" fill="#111a2e"/>
+<g transform="skewX(-20)"><rect class="brillo" x="0" y="0" width="40" height="44" fill="#ffffff" opacity=".07"/></g>
+</g>
+<rect x="1" y="1" width="286" height="42" rx="21" fill="none" stroke="url(#b)" stroke-width="1.5"/>
+<circle cx="26" cy="22" r="13" fill="#5b9dff" opacity=".14"/>
+<rect x="18" y="14" width="16" height="16" rx="3" fill="#5b9dff"/><text x="21" y="26" fill="#0b1222" font-size="10" font-weight="700" textLength="10" lengthAdjust="spacingAndGlyphs">in</text>
+<text x="48" y="27" fill="#9aa6bd" font-size="14" textLength="67.2" lengthAdjust="spacingAndGlyphs">LinkedIn</text>
+<text x="126" y="27" fill="#dbe3f3" font-size="14" font-weight="700" textLength="134.4" lengthAdjust="spacingAndGlyphs">samuelcletomalle</text>
+</svg>

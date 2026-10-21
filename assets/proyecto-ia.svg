@@ -4,7 +4,7 @@
 .cursor{animation:parp 1s steps(1) infinite}@keyframes parp{50%{opacity:0}}
 .pulso{animation:pulso 1.6s ease-in-out infinite}@keyframes pulso{50%{opacity:.25}}
 .ico{animation:flota 2.6s ease-in-out infinite}@keyframes flota{50%{transform:translateY(-5px)}}
-.ojo{animation:parp 2.2s steps(1) infinite}
+.ojo{animation:guino 3s infinite}@keyframes guino{0%,90%,100%{opacity:1}92%,96%{opacity:0}}
 .lupa{animation:busca 3.2s ease-in-out infinite}@keyframes busca{50%{transform:translate(-8px,4px)}}</style>
 <rect width="470" height="250" rx="18" fill="#0b1222"/>
 <rect x="9" y="9" width="452" height="232" rx="13" fill="none" stroke="url(#borde)" stroke-width="2"/>

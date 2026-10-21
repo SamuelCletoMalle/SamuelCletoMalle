@@ -5,10 +5,13 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=5B9DFF&center=true&vCenter=true&width=900&lines=Samuel+Cleto+Malle+%E2%80%94+Desarrollador+junior;2%C2%BA+DAM+%C2%B7+Java+%7C+Python+%7C+JavaScript+%7C+SQL;Backend+%C2%B7+Apps+%C2%B7+Videojuegos+%C2%B7+IA;Buscando+pr%C3%A1cticas+o+primer+puesto+%F0%9F%9A%80" alt="Typing SVG">
+<img src="assets/typing.svg" width="900" alt="Samuel Cleto Malle — Desarrollador junior · 2º DAM · Java, Python, JavaScript, SQL · Buscando prácticas">
 
-<a href="https://www.linkedin.com/in/samuelcletomalle"><img src="https://img.shields.io/badge/LinkedIn-samuelcletomalle-111a2e?style=flat&logo=linkedin&logoColor=5b9dff&labelColor=0b1222" alt="LinkedIn"></a>
-<a href="https://samuelcletomalle.github.io"><img src="https://img.shields.io/badge/Portfolio-samuelcletomalle.github.io-111a2e?style=flat&logo=githubpages&logoColor=5b9dff&labelColor=0b1222" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/samuelcletomalle"><img src="assets/btn-linkedin.svg" height="38" alt="LinkedIn"></a>
+<a href="https://samuelcletomalle.github.io"><img src="assets/btn-portfolio.svg" height="38" alt="Portfolio"></a>
+
+<br>
+
 <img src="https://img.shields.io/badge/Estado-Abierto%20a%20pr%C3%A1cticas-111a2e?style=flat&labelColor=0b1222&color=3b7ddd" alt="Abierto a prácticas">
 <img src="https://hits.sh/github.com/SamuelCletoMalle/perfil.svg?label=Visitas%20al%20perfil&color=3b7ddd&labelColor=0b1222" alt="visitas al perfil">
 
@@ -33,9 +36,9 @@
   <a href="https://github.com/SamuelCletoMalle/SEO-para-IA-y-Google"><img src="assets/proyecto-seo.svg" width="49%" alt="SEO para IA y Google"></a>
 </p>
 
-<div align="center">
-
 ## `$ cat tech-stack.yaml`
+
+<div align="center">
 
 <table border="1" cellpadding="14">
   <thead>
@@ -108,7 +111,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelCletoMalle&show_icons=true&hide_border=true&bg_color=0b1222&title_color=5b9dff&icon_color=28bee6&text_color=dbe3f3&ring_color=5b9dff&locale=es&rank_icon=github" alt="Estadísticas de GitHub">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelCletoMalle&show_icons=true&hide_border=true&bg_color=0b1222&title_color=5b9dff&icon_color=28bee6&text_color=dbe3f3&ring_color=5b9dff&locale=es&rank_icon=github&hide=contribs,issues&custom_title=Estad%C3%ADsticas%20de%20GitHub" alt="Estadísticas de GitHub">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelCletoMalle/SamuelCletoMalle/output/snake-dark.svg">
@@ -123,8 +126,9 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/samuelcletomalle"><img src="https://img.shields.io/badge/LinkedIn-samuelcletomalle-111a2e?style=for-the-badge&logo=linkedin&logoColor=5b9dff&labelColor=0b1222" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="https://github.com/SamuelCletoMalle"><img src="https://img.shields.io/badge/GitHub-SamuelCletoMalle-111a2e?style=for-the-badge&logo=github&logoColor=5b9dff&labelColor=0b1222" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/samuelcletomalle"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
+<a href="https://samuelcletomalle.github.io"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio"></a>
+<a href="https://github.com/SamuelCletoMalle"><img src="assets/btn-github.svg" height="44" alt="GitHub"></a>
 
 <br><br>
 
