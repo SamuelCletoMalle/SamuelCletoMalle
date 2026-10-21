@@ -7,8 +7,8 @@
 
 <img src="assets/typing.svg" width="900" alt="Samuel Cleto Malle — Desarrollador junior · 2º DAM · Java, Python, JavaScript, SQL · Buscando prácticas">
 
-<a href="https://www.linkedin.com/in/samuelcletomalle"><img src="assets/btn-linkedin.svg" height="38" alt="LinkedIn"></a>
-<a href="https://samuelcletomalle.github.io"><img src="assets/btn-portfolio.svg" height="38" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/samuelcletomalle"><img src="assets/btn-linkedin.svg" height="34" alt="LinkedIn"></a>
+<a href="https://samuelcletomalle.github.io"><img src="assets/btn-portfolio.svg" height="34" alt="Portfolio"></a>
 
 <br>
 
@@ -126,9 +126,9 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/samuelcletomalle"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
-<a href="https://samuelcletomalle.github.io"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio"></a>
-<a href="https://github.com/SamuelCletoMalle"><img src="assets/btn-github.svg" height="44" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/samuelcletomalle"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></a>
+<a href="https://samuelcletomalle.github.io"><img src="assets/btn-portfolio.svg" height="40" alt="Portfolio"></a>
+<a href="https://github.com/SamuelCletoMalle"><img src="assets/btn-github.svg" height="40" alt="GitHub"></a>
 
 <br><br>
 
