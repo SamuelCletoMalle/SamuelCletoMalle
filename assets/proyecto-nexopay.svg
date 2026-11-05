@@ -40,7 +40,7 @@
 <rect x="454" y="256" width="91" height="28" rx="6" fill="#0c1a33" stroke="#3b7ddd"/>
 <text x="465" y="275" fill="#7db3ff" font-size="14">Supabase</text>
 <text x="50" y="324" fill="#9aa6bd" font-size="14"><tspan fill="#5b9dff">✔</tspan> presupuestos  <tspan fill="#5b9dff">✔</tspan> metas  <tspan fill="#5b9dff">✔</tspan> Excel  <tspan fill="#5b9dff">✔</tspan> bancos  <tspan fill="#5b9dff">✔</tspan> nube</text>
-<text x="50" y="356" fill="#28bee6" font-size="14">❯ git clone github.com/SamuelCletoMalle/balanz-app<tspan class="cursor" fill="#5b9dff">█</tspan></text>
+<text x="50" y="356" fill="#28bee6" font-size="14">❯ git clone github.com/SamuelCletoMalle/Nexo-Pay<tspan class="cursor" fill="#5b9dff">█</tspan></text>
 <circle class="pulso" cx="520" cy="112" r="5" fill="#5b9dff"/>
 <text x="532" y="117" fill="#7db3ff" font-size="14">en desarrollo</text>
 <!-- móvil -->
