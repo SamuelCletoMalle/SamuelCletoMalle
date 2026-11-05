@@ -28,7 +28,7 @@
 ## `$ ls proyectos/ --destacados`
 
 <p align="center">
-  <a href="https://github.com/SamuelCletoMalle/balanz-app"><img src="assets/proyecto-nexopay.svg" width="960" alt="Nexo Pay: app de finanzas personales con React Native, Expo, TypeScript, SQLite y Supabase"></a>
+  <a href="https://github.com/SamuelCletoMalle/Nexo-Pay"><img src="assets/proyecto-nexopay.svg" width="960" alt="Nexo Pay: app de finanzas personales con React Native, Expo, TypeScript, SQLite y Supabase"></a>
 </p>
 
 <p align="center">
