@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- ESCENA: mini Samuel en pixel art -->
-<a href="https://github.com/SamuelCletoMalle"><img src="assets/samu-hero.svg" width="960" alt="Mini Samuel en pixel art: entra andando, se estira, toma café, piensa, programa, se pone la capucha en modo hacker y se va"></a>
+<!-- INICIO: el retrato se convierte en estatua de mármol y recibe la corona de laurel -->
+<a href="https://samuelcletomalle.github.io"><img src="assets/olimpo-hero.svg" width="960" alt="Samuel Cleto Malle, desarrollador junior de 2º DAM (Java, Python, JavaScript, SQL), abierto a prácticas: su retrato se convierte en estatua de mármol y recibe una corona de laurel de oro"></a>
 
 <br>
 
-<img src="assets/typing.svg" width="900" alt="Samuel Cleto Malle — Desarrollador junior · 2º DAM · Java, Python, JavaScript, SQL · Buscando prácticas">
-
-<a href="https://www.linkedin.com/in/samuelcletomalle"><img src="assets/btn-linkedin.svg" height="34" alt="LinkedIn"></a>
-<a href="https://samuelcletomalle.github.io"><img src="assets/btn-portfolio.svg" height="34" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/samuelcletomalle"><img src="assets/btn-linkedin.svg" height="36" alt="LinkedIn"></a>
+<a href="https://samuelcletomalle.github.io"><img src="assets/btn-portfolio.svg" height="36" alt="Portfolio"></a>
 
 <br>
 
@@ -17,15 +15,15 @@
 
 </div>
 
-## `$ whoami`
+<img src="assets/sec-1.svg" width="100%" alt="I · Sobre mí">
 
 <p align="center">
   <img src="assets/whoami.svg" width="960" alt="Tarjeta de terminal con el perfil de Samuel">
 </p>
 
-<p align="center"><img src="assets/divider-walk.svg" width="960" alt="separador animado"></p>
+<p align="center"><img src="assets/divider-meandro.svg" width="960" alt="separador animado"></p>
 
-## `$ ls proyectos/ --destacados`
+<img src="assets/sec-2.svg" width="100%" alt="II · Proyectos">
 
 <p align="center">
   <a href="https://github.com/SamuelCletoMalle/Nexo-Pay"><img src="assets/proyecto-nexopay.svg" width="960" alt="Nexo Pay v3.3: app de finanzas personales para Android y web con React Native, Expo, SQLite y Supabase, en producción"></a>
@@ -35,7 +33,9 @@
   <a href="https://samuelcletomalle.github.io/#proyectos"><img src="assets/proyecto-crmforge.svg" width="960" alt="CRMForge: constructor de CRM a medida con Next.js, React, Supabase, PostgreSQL y Tailwind, en desarrollo"></a>
 </p>
 
-## `$ cat tech-stack.yaml`
+<p align="center"><img src="assets/divider-meandro.svg" width="960" alt="separador"></p>
+
+<img src="assets/sec-3.svg" width="100%" alt="III · Tecnologías">
 
 <div align="center">
 
@@ -98,14 +98,16 @@
 
 </div>
 
-## `$ cat certificados.log`
+<p align="center"><img src="assets/divider-meandro.svg" width="960" alt="separador"></p>
+
+<img src="assets/sec-4.svg" width="100%" alt="IV · Certificados">
 
 <p align="center">
   <img src="assets/logros.svg" width="960" alt="Certificados: Grado Medio SMR, Python Essentials 1 y 2 y JavaScript Essentials 1 (Cisco), AWS Cloud Practitioner Essentials y AWS Technical Essentials, Introducción a la IA moderna (Cisco), Build Your First Chatbot (IBM SkillsBuild) y Desarrollo de IA y Python con IA">
 </p>
 
 
-## `$ git log --stats`
+<img src="assets/sec-5.svg" width="100%" alt="V · Actividad">
 
 <div align="center">
 
@@ -118,9 +120,9 @@
 
 </div>
 
-<p align="center"><img src="assets/divider-coffee.svg" width="960" alt="separador animado"></p>
+<p align="center"><img src="assets/divider-meandro.svg" width="960" alt="separador animado"></p>
 
-## `$ connect --contacto`
+<img src="assets/sec-6.svg" width="100%" alt="VI · Contacto">
 
 <div align="center">
 
@@ -130,6 +132,6 @@
 
 <br><br>
 
-<img src="assets/footer.svg" width="960" alt="samuel@dev:~$ git commit -m gracias por pasarte por mi perfil · abierto a prácticas">
+<img src="assets/footer.svg" width="960" alt="Gracias por pasarte por mi perfil · abierto a prácticas · 2º DAM">
 
 </div>
