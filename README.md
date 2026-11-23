@@ -37,66 +37,9 @@
 
 <img src="assets/sec-3.svg" width="100%" alt="III · Tecnologías">
 
-<div align="center">
-
-<table border="1" cellpadding="14">
-  <thead>
-    <tr>
-      <th colspan="2" align="left"><code>samuel:~$ cat tech-stack.yaml</code></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="50%" valign="top"><code>├─ ✦ lenguajes:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=java" alt="Java">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript">
-      </td>
-      <td width="50%" valign="top"><code>├─ ▣ bases_de_datos:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
-        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite">
-        <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><code>├─ ◈ web_apps_y_juegos:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS">
-        <img src="https://skillicons.dev/icons?i=react" alt="React / React Native">
-        <img src="https://skillicons.dev/icons?i=vite" alt="Vite">
-        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio">
-        <img src="https://skillicons.dev/icons?i=unity" alt="Unity">
-      </td>
-      <td valign="top"><code>├─ ⚙ backend_y_cloud:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code">
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><code>├─ ▤ sistemas:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=windows" alt="Windows">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
-        <br><code>hardware</code> <code>redes</code> <code>soporte</code>
-      </td>
-      <td valign="top"><code>╰─ ⌁ explorando:</code><br><br>
-        <code>agentes de IA</code> <code>Gemini API</code> <code>videojuegos 3D</code> <code>ciberseguridad</code>
-      </td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td colspan="2"><code>status: estudiando_2º_DAM&nbsp;&nbsp;·&nbsp;&nbsp;disponible: prácticas&nbsp;&nbsp;·&nbsp;&nbsp;4h/día → jornada completa desde marzo</code></td>
-    </tr>
-  </tfoot>
-</table>
-
-</div>
+<p align="center">
+  <img src="assets/tecnologias.svg" width="960" alt="Tecnologías. Lenguajes: Java, Python, JavaScript, SQL. Bases de datos: MySQL, PostgreSQL, SQLite, Supabase, Firebase. Web, apps y juegos: HTML, CSS, React y React Native, Vite, Android Studio, Unity. Backend y cloud: FastAPI, Node.js, AWS, Git, GitHub, VS Code. Sistemas: Windows, Linux, hardware, redes y soporte. Explorando: agentes de IA, Gemini API, videojuegos 3D, ciberseguridad.">
+</p>
 
 <p align="center"><img src="assets/divider-meandro.svg" width="960" alt="separador"></p>
 
