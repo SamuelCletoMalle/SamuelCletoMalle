@@ -3,12 +3,12 @@
   <desc id="desc">Tarjeta de terminal con el perfil de Samuel: formación, objetivo, experiencia y lo que está construyendo ahora.</desc>
   <defs>
     <linearGradient id="borde" x1="0" x2="1" y1="0" y2="1">
-      <stop stop-color="#e7c169"/>
-      <stop offset="1" stop-color="#d2a234"/>
+      <stop stop-color="#dadada"/>
+      <stop offset="1" stop-color="#aaaaaa"/>
     </linearGradient>
     <linearGradient id="barra" x1="0" x2="1">
-      <stop stop-color="#e7c169"/>
-      <stop offset="1" stop-color="#d2a234"/>
+      <stop stop-color="#dadada"/>
+      <stop offset="1" stop-color="#aaaaaa"/>
     </linearGradient>
   </defs>
   <style>
@@ -25,56 +25,56 @@
     @keyframes pulso { 50% { opacity: .25; } }
   </style>
 
-  <rect width="960" height="420" rx="18" fill="#171512"/>
+  <rect width="960" height="420" rx="18" fill="#141414"/>
   <rect x="9" y="9" width="942" height="402" rx="13" fill="none" stroke="url(#borde)" stroke-width="2"/>
-  <circle cx="35" cy="35" r="5" fill="#ff6b6b"/>
-  <circle cx="54" cy="35" r="5" fill="#ffc861"/>
-  <circle cx="73" cy="35" r="5" fill="#5ee0b0"/>
-  <text x="98" y="41" fill="#b1ada6" font-size="15">samuel@dev  ·  profile shell  ·  online</text>
-  <path d="M29 58H931" stroke="#47371b"/>
+  <circle cx="35" cy="35" r="5" fill="#3a3a3a"/>
+  <circle cx="54" cy="35" r="5" fill="#6a6a6a"/>
+  <circle cx="73" cy="35" r="5" fill="#e2b75a"/>
+  <text x="98" y="41" fill="#acacac" font-size="15">samuel@dev  ·  profile shell  ·  online</text>
+  <path d="M29 58H931" stroke="#2c2c2c"/>
 
   <!-- panel izquierdo -->
-  <rect x="29" y="78" width="594" height="301" rx="9" fill="#201d19" stroke="#cba345" stroke-width="1.5"/>
-  <text x="48" y="111" fill="#d2a234" font-size="20" font-weight="700">❯ whoami</text>
-  <text x="48" y="143" fill="#e8e7e6" font-size="18">samuel_cleto</text>
-  <text x="190" y="143" fill="#b1ada6" font-size="18">—</text>
-  <text x="215" y="143" fill="#ffc861" font-size="18">Desarrollador junior</text>
+  <rect x="29" y="78" width="594" height="301" rx="9" fill="#1c1c1c" stroke="#b1b1b1" stroke-width="1.5"/>
+  <text x="48" y="111" fill="#aaaaaa" font-size="20" font-weight="700">❯ whoami</text>
+  <text x="48" y="143" fill="#e7e7e7" font-size="18">samuel_cleto</text>
+  <text x="190" y="143" fill="#acacac" font-size="18">—</text>
+  <text x="215" y="143" fill="#e5e5e5" font-size="18">Desarrollador junior</text>
 
-  <path d="M48 166H604" stroke="#47371b"/>
-  <text x="48" y="196" fill="#b1ada6" font-size="17">formación:</text>
-  <text x="178" y="196" fill="#ebcd85" font-size="17">2º DAM · antes SMR</text>
-  <text x="48" y="225" fill="#b1ada6" font-size="17">objetivo:</text>
-  <text x="178" y="225" fill="#e4cb8f" font-size="17">prácticas o primer puesto como dev</text>
+  <path d="M48 166H604" stroke="#2c2c2c"/>
+  <text x="48" y="196" fill="#acacac" font-size="17">formación:</text>
+  <text x="178" y="196" fill="#efefef" font-size="17">2º DAM · antes SMR</text>
+  <text x="48" y="225" fill="#acacac" font-size="17">objetivo:</text>
+  <text x="178" y="225" fill="#f1f1f1" font-size="17">prácticas o primer puesto como dev</text>
 
-  <text x="48" y="267" fill="#d2a234" font-size="20" font-weight="700">❯ ls experiencia/</text>
-  <text x="48" y="299" fill="#e7c169" font-size="16">backend/</text>
-  <text x="200" y="299" fill="#e8e7e6" font-size="16">Java · Python · FastAPI · SQL</text>
-  <text x="48" y="326" fill="#e7c169" font-size="16">apps_y_juegos/</text>
-  <text x="200" y="326" fill="#e8e7e6" font-size="16">React · React Native · Android</text>
-  <text x="48" y="353" fill="#e7c169" font-size="16">sistemas/</text>
-  <text x="200" y="353" fill="#e8e7e6" font-size="16">Windows · Linux · Redes · Hardware</text>
+  <text x="48" y="267" fill="#aaaaaa" font-size="20" font-weight="700">❯ ls experiencia/</text>
+  <text x="48" y="299" fill="#dadada" font-size="16">backend/</text>
+  <text x="200" y="299" fill="#e7e7e7" font-size="16">Java · Python · FastAPI · SQL</text>
+  <text x="48" y="326" fill="#dadada" font-size="16">apps_y_juegos/</text>
+  <text x="200" y="326" fill="#e7e7e7" font-size="16">React · React Native · Android</text>
+  <text x="48" y="353" fill="#dadada" font-size="16">sistemas/</text>
+  <text x="200" y="353" fill="#e7e7e7" font-size="16">Windows · Linux · Redes · Hardware</text>
 
   <!-- panel derecho: procesos en marcha -->
-  <rect x="651" y="78" width="280" height="301" rx="9" fill="#201d19" stroke="#cba345" stroke-width="1.5"/>
-  <text x="674" y="111" fill="#d2a234" font-size="18" font-weight="700">❯ ps --mine</text>
+  <rect x="651" y="78" width="280" height="301" rx="9" fill="#1c1c1c" stroke="#b1b1b1" stroke-width="1.5"/>
+  <text x="674" y="111" fill="#aaaaaa" font-size="18" font-weight="700">❯ ps --mine</text>
 
-  <circle cx="680" cy="146" r="4" fill="#5ee0b0" class="pulso"/>
-  <text x="692" y="151" fill="#ffc861" font-size="15">dam_2.curso</text>
-  <text x="692" y="171" fill="#b1ada6" font-size="12">desarrollo de apps multiplataforma</text>
-  <rect x="692" y="180" width="192" height="8" rx="4" fill="#47371b"/>
+  <circle cx="680" cy="146" r="4" fill="#e2b75a" class="pulso"/>
+  <text x="692" y="151" fill="#e5e5e5" font-size="15">dam_2.curso</text>
+  <text x="692" y="171" fill="#acacac" font-size="12">desarrollo de apps multiplataforma</text>
+  <rect x="692" y="180" width="192" height="8" rx="4" fill="#2c2c2c"/>
   <rect x="692" y="180" width="0" height="8" rx="4" fill="url(#barra)" class="p1"/>
 
-  <circle cx="680" cy="214" r="4" fill="#5ee0b0" class="pulso"/>
-  <text x="692" y="219" fill="#ffc861" font-size="15">nexo-pay.app</text>
-  <text x="692" y="239" fill="#b1ada6" font-size="12">finanzas · React Native</text>
-  <rect x="692" y="248" width="192" height="8" rx="4" fill="#47371b"/>
+  <circle cx="680" cy="214" r="4" fill="#e2b75a" class="pulso"/>
+  <text x="692" y="219" fill="#e5e5e5" font-size="15">nexo-pay.app</text>
+  <text x="692" y="239" fill="#acacac" font-size="12">finanzas · React Native</text>
+  <rect x="692" y="248" width="192" height="8" rx="4" fill="#2c2c2c"/>
   <rect x="692" y="248" width="0" height="8" rx="4" fill="url(#barra)" class="p2"/>
 
-  <circle cx="680" cy="282" r="4" fill="#5ee0b0" class="pulso"/>
-  <text x="692" y="287" fill="#ffc861" font-size="15">practicas.fct</text>
-  <text x="692" y="307" fill="#b1ada6" font-size="12">disponible · jornada completa marzo</text>
-  <rect x="692" y="316" width="192" height="8" rx="4" fill="#47371b"/>
+  <circle cx="680" cy="282" r="4" fill="#e2b75a" class="pulso"/>
+  <text x="692" y="287" fill="#e5e5e5" font-size="15">practicas.fct</text>
+  <text x="692" y="307" fill="#acacac" font-size="12">disponible · jornada completa marzo</text>
+  <rect x="692" y="316" width="192" height="8" rx="4" fill="#2c2c2c"/>
   <rect x="692" y="316" width="0" height="8" rx="4" fill="url(#barra)" class="p3"/>
 
-  <text x="674" y="356" fill="#b1ada6" font-size="14">status: siempre aprendiendo<tspan class="cursor">▋</tspan></text>
+  <text x="674" y="356" fill="#acacac" font-size="14">status: siempre aprendiendo<tspan class="cursor">▋</tspan></text>
 </svg>

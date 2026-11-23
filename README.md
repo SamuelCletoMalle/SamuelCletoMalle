@@ -13,7 +13,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/Estado-Abierto%20a%20pr%C3%A1cticas-e2b75a?style=flat&labelColor=0a0a0a&color=e2b75a" alt="Abierto a prácticas">
-<img src="https://hits.sh/github.com/SamuelCletoMalle/perfil.svg?label=Visitas%20al%20perfil&color=e2b75a&labelColor=0a0a0a" alt="visitas al perfil">
+<img src="https://hits.sh/github.com/SamuelCletoMalle/perfil.svg?label=Visitas%20al%20perfil&color=f5f5f5&labelColor=0a0a0a" alt="visitas al perfil">
 
 </div>
 
@@ -109,7 +109,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelCletoMalle&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=e2b75a&icon_color=e2b75a&text_color=e7e5df&ring_color=e2b75a&locale=es&rank_icon=github&hide=contribs,issues&custom_title=Estad%C3%ADsticas%20de%20GitHub" alt="Estadísticas de GitHub">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelCletoMalle&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=e2b75a&text_color=cfcfcf&ring_color=e2b75a&locale=es&rank_icon=github&hide=contribs,issues&custom_title=Estad%C3%ADsticas%20de%20GitHub" alt="Estadísticas de GitHub">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelCletoMalle/SamuelCletoMalle/output/snake-dark.svg">
