@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- INICIO: el retrato se convierte en estatua de mármol y recibe la corona de laurel -->
-<a href="https://samuelcletomalle.github.io"><img src="assets/olimpo-hero.svg" width="960" alt="Samuel Cleto Malle, desarrollador junior de 2º DAM (Java, Python, JavaScript, SQL), abierto a prácticas: su retrato se convierte en estatua de mármol y recibe una corona de laurel de oro"></a>
+<!-- INICIO: la foto se convierte en código y el código forma los logos de los lenguajes -->
+<a href="https://samuelcletomalle.github.io"><img src="assets/hero-codigo.svg" width="960" alt="Samuel Cleto Malle, desarrollador junior de 2º DAM, abierto a prácticas: su foto se convierte en código y el código forma los logos de Java, Python, JavaScript y SQL"></a>
 
 <br>
 
